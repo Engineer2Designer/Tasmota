@@ -80,7 +80,7 @@
 #define D_DATA "數據:"
 #define D_DARKLIGHT "暗光"
 #define D_DEBUG "偵錯"
-#define D_DEWPOINT "Dew point"
+#define D_DEWPOINT "露點"
 #define D_DISABLED "已停用"
 #define D_DISTANCE "距離"
 #define D_DNS_SERVER "DNS伺服器"
